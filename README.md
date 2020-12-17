@@ -1,17 +1,12 @@
 # **Bill Barker Portfolio**
 
 ## **Description**
-## This project is designed to refactor the code for the Horiseon web site.
-## This will include the following:
-* Confirm all links work properly
-* Confirm the application's CSS selectors and properties are consolidated and organized to follow semantic structure
-* make sure that the application's CSS file is properly commented
-* make sure the application meets accessibility requirements
+This web site is used highlight my coding and design skills for future employers
 
 ## **Usage**
-This web site is used to explore the services offered by the Horiseon company.  These include Search Engine Optimization, Online Reputation Management, and Social Media Marketing.
+
  
-![Website Capture](/Develop/assets/images/Web-site-Capture.PNG)
+![Website Capture](/assets/images/Web-site-Capture.PNG)
 
 ## **License**
 This is free and unencumbered software released into the public domain.

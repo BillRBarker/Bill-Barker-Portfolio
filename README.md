@@ -1,9 +1,7 @@
 # **Bill Barker Portfolio**
 
 ## **Description**
-This web site is used highlight my coding and design skills for future employers
-
-## **Usage**
+This web site is used to highlight my coding and design skills for future employers
 
  
 ![Website Capture](/assets/images/Web-site-Capture.PNG)

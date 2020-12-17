@@ -8,3 +8,11 @@
     color: white;
     text-align: center;
   }
+
+  .row {
+      margin-bottom: 10px;
+  }
+.container-fluid {
+
+    margin-left: 20px;
+}

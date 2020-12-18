@@ -3,6 +3,8 @@
 ## **Description**
 This web site is used to highlight my coding and design skills for future employers
 
+[https://billrbarker.github.io/Bill-Barker-Portfolio/](https://billrbarker.github.io/Bill-Barker-Portfolio/)
+
  
 ![Website Capture](/assets/images/Web-site-Capture.PNG)
 

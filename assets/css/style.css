@@ -1,3 +1,5 @@
+
+/* formatting for the location (bottom) and color of the footer */
 .footer {
     position: fixed;
     left: 0;
@@ -9,9 +11,12 @@
     text-align: center;
   }
 
+  /* putting a margin around rows for spacing */
   .row {
       margin-bottom: 10px;
   }
+
+  /* putting a left margin on containers to space them from the edge of the screen */
 .container-fluid {
 
     margin-left: 20px;
